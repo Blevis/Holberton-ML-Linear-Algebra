@@ -32,4 +32,3 @@ def mat_mul(mat1, mat2):
               for row in mat1]
 
     return result
-    
