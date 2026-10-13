@@ -11,7 +11,8 @@ def cat_matrices2D(mat1, mat2, axis=0):
     Args:
         mat1 (list of lists): First 2D matrix.
         mat2 (list of lists): Second 2D matrix.
-        axis (int): Axis along which to concatenate (0 for rows, 1 for columns).
+        axis (int): Axis along which to concatenate
+        (0 for rows, 1 for columns).
 
     Returns:
         list of lists: A new concatenated 2D matrix, or None if shapes differ.
